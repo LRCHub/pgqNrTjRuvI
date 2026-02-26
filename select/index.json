@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "今はいいんだよ。 [Cover]",
+  "base_artist": "MIMI",
+  "createdAt": "2026-02-26T03:33:06.791719Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "今はいいんだよ。",
+      "artist": "MIMI, 可不",
+      "has_synced": false,
+      "path": "select/pl_01_今はいいんだよ。_MIMI,_可不.txt"
+    }
+  ]
+}
